@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(0, 162, 222);
+    align-items: center;
+   
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    
+}
+.centerpage{
+    border: solid 1px;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 450px;
+    background-color: white;
+
+
+}
+
+.tickicon{
+    width: 100px;
+    margin-top: 50px;
+}
+
+.details{
+    margin-left: 25px;
+}
+
+.username{
+    display: flex;
+    border: solid 1px;
+    width: 300px;
+    height: 40px;
+    gap: 30px;
+    margin-top: 50px;
+    
+}
+.usericon{
+    width: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.userbtn{
+    background-color: white;
+    border: 0ch;
+}
+
+.password{
+    display: flex;
+    border: solid 1px;
+    width: 300px;
+    height: 40px;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.pwdicon{
+    width: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.pwdbtn{
+    background-color: white;
+    border: 0ch;
+}
+
+.loginbtn{
+    display: flex;
+    border: solid 1px;
+    width: 300px;
+    height: 40px;
+    gap: 30px;
+    margin-top: 20px;
+    background-color: rgba(0, 98, 255, 0.756);
+    border: 0ch;
+   margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+    padding-left: 125px;
+}
